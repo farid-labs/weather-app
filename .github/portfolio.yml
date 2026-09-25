@@ -8,7 +8,7 @@ description:
   fa: "اپلیکیشن حرفه‌ای آب‌وهوا با JavaScript خالص، معماری ماژولار، طراحی واکنش‌گرا، PWA، دسترسی‌پذیری و معماری امن بدون افشای API Key در سمت کاربر."
   en: "A professional weather application built with vanilla JavaScript, featuring modular architecture, responsive design, PWA, accessibility, and a secure API proxy without exposing API keys to the client."
 
-banner: "https://raw.githubusercontent.com/farid-labs/weather-app/main/public/screenshot.svg"
+banner: "/public/screenshot.svg"
 
 preview: "https://weather-app-coral-nu-37.vercel.app/"
 
