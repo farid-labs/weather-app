@@ -20,8 +20,8 @@ skills:
 
   - name: "PWA"
     icon:
-      light: "vscode-icons:file-type-pwa"
-      dark: "vscode-icons:file-type-pwa"
+      light: "logos:pwa"
+      dark: "logos:pwa"
 
   - name: "Vercel"
     icon:
